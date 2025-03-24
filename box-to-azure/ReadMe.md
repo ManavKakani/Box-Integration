@@ -68,9 +68,6 @@ This Python script syncs files from a Box folder to Azure Blob Storage automatic
    # Azure Event Hub
    EVENT_HUB_NAMESPACE=your_event_hub_namespace  # Event Hub namespace
    EVENT_HUB_NAME=your_event_hub_name  # Name of the Event Hub
-
-   # Optional settings
-   SYNC_INTERVAL=5  # Sync interval in seconds
    ```
 
 ## Box Setup Instructions
