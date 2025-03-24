@@ -64,7 +64,3 @@ Each integration has its own detailed README with specific setup and usage instr
 - **Cloud Migration**: Facilitate transition from Box to another cloud storage provider
 - **Multi-cloud Strategy**: Maintain copies of your Box content across different cloud platforms
 - **Data Processing Pipelines**: Feed Box data into cloud-based processing systems
-
-## License
-
-MIT License - See [LICENSE](./LICENSE) for details
