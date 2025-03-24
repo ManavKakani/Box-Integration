@@ -62,9 +62,6 @@ This Python script syncs files from a Box folder to an AWS S3 bucket automatical
    AWS_SECRET_ACCESS_KEY=your_aws_secret_access_key
    AWS_REGION=your_aws_region
    AWS_S3_BUCKET_NAME=your_s3_bucket_name
-
-   # Optional settings
-   SYNC_INTERVAL=5  # Sync interval in seconds
    ```
 
 ## Box Setup Instructions
