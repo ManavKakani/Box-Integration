@@ -25,7 +25,7 @@ This Python script syncs files from a Box folder to an AWS S3 bucket automatical
 
 1. Clone this repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/ManavKakani/Box-Integration.git
    cd Box-Integration/box-to-aws
    ```
 
@@ -111,6 +111,3 @@ Press `Ctrl+C` to stop the script.
 - **AWS S3 Errors**: Check your AWS credentials and S3 bucket permissions
 - **File Not Found Errors**: Ensure the specified Box folder exists within the parent folder
 
-## License
-
-[Add your license information here]
