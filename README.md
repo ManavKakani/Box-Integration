@@ -2,6 +2,9 @@
 
 This repository contains Python scripts to sync files from Box to different cloud storage services. These tools provide automated, continuous synchronization between Box and your preferred cloud storage platform.
 
+## Note
+- This script starts uploading files from the moment you run it. It will not upload any documents that were previously uploaded to Box before starting the script.
+
 ## Available Integrations
 
 - [Box to AWS S3](./box-to-aws/ReadMe.md) - Sync files from Box to an AWS S3 bucket
