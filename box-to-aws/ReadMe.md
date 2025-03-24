@@ -2,6 +2,7 @@
 
 This Python script syncs files from a Box folder to an AWS S3 bucket automatically. The script monitors the specified Box folder for changes and keeps the S3 bucket in sync by:
 
+- This script starts uploading files from the moment you run it. It will not upload any documents that were previously uploaded to Box before starting the script.
 - Uploading new files added to Box
 - Updating modified files in Box
 - Removing files from S3 that were deleted from Box
